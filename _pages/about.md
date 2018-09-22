@@ -1,7 +1,7 @@
 ---
-permalink: /about/
+layout: single
 title: "About"
-layout: home
+permalink: /about/
 ---
 
 
